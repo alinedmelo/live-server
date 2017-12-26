@@ -1,0 +1,17 @@
+{
+  "name": "cursos",
+  "version": "1.0.0",
+  "description": "repositorio de cursos",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aline dias",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "sass": "^1.0.0-beta.4"
+  }
+}
