@@ -16,7 +16,7 @@ clone the repository in the root of your project folder.
 git clone https://github.com/alinedmelo/live-server.git
 ```
 
-run the npm install command for install the dependencies
+run the `npm install` command for install the dependencies
 
 ```
 npm install
