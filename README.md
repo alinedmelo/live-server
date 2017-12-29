@@ -24,10 +24,10 @@ npm install
 
 ### Tasks
 
-Run the `server` task will compile sass files, watch/reload the browser and inject the html and css files on it.
+Run the `serve` task will compile sass files, watch/reload the browser and inject the html and css files on it.
 
 ```
-gulp server
+gulp serve
 ```
 
 ### Paths
